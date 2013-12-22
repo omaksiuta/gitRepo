@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories name="Categories Catalog"  date="2013-10-28">
+	<Category id="CATEG100001" name="Масло" xmlfile="Butter.xml"/>
+	<Category id="CATEG100002" name="Молоко" xmlfile="Milk.xml"/>
+</Categories>
+

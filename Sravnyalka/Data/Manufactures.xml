@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Manufactures name="Каталог производителей" date="2013-10-25">
+	<MAN id="MAN100001" name="ТОВ Тульчинка" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100002" name="ТОВ Галичина" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100003" name="ТОВ Галактон" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100004" name="ТОВ Бурёнка" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100005" name="ТОВ Простоквашино" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100006" name="ТОВ Селянське" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100007" name="ТОВ Біла Лінія" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100008" name="ТОВ Lactel" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100009" name="ТОВ Агуша" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+	<MAN id="MAN100009" name="ТОВ Хуторок" enabled="true">
+		<CountryId></CountryId>
+		<WebUrl>www.pg.com</WebUrl>
+	</MAN>
+</Manufactures>

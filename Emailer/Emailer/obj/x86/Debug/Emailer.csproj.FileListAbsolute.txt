@@ -1,0 +1,7 @@
+D:\AlexS\Projects\Emailer\Emailer\obj\x86\Debug\Emailer.Properties.Resources.resources
+D:\AlexS\Projects\Emailer\Emailer\obj\x86\Debug\Emailer.csproj.GenerateResource.Cache
+D:\AlexS\Projects\Emailer\Emailer\bin\Debug\Emailer.exe
+D:\AlexS\Projects\Emailer\Emailer\bin\Debug\Emailer.pdb
+D:\AlexS\Projects\Emailer\Emailer\obj\x86\Debug\Emailer.exe
+D:\AlexS\Projects\Emailer\Emailer\obj\x86\Debug\Emailer.pdb
+D:\AlexS\Projects\Emailer\Emailer\obj\x86\Debug\Emailer.formEmailer.resources

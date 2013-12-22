@@ -1,0 +1,103 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    My ASP.NET Application
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                        ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold">
+                            <asp:LoginName ID="HeadLoginName" runat="server" />
+                        </span>! [
+                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                            LogoutPageUrl="~/" />
+                        ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Главная" />
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" />
+                        <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Catalog" />
+                        <asp:MenuItem NavigateUrl="~/Goals.aspx" Text="Цели" />
+                        <asp:MenuItem NavigateUrl="~/ContactUs.aspx" Text="Обратная связь" />
+                    </Items>
+                </asp:Menu>
+                <br />
+                <asp:Menu ID="MenuCatalog" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem Text="Молочные изделия">
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Десерт" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Кефир" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Масло" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Молоко" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Мороженое" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сметана" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сыр" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сливки" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сметана" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Творог" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Мясо" />
+                        <asp:MenuItem Text="Напитки">
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Минеральная Вода" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сладкая Газировка" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Сок" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Вино" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Водка" />
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Рыба" />
+                        <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Чипсы" />
+                        <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Шоколад" />
+                        <asp:MenuItem Text="Гигиена">
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Дезодорант шариковый" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Мыло" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Шампунь" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Крем Для Бритья" />
+                            <asp:MenuItem NavigateUrl="~/Catalog.aspx" Text="Крем После Бритья" />
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            <table border="1">
+                <tr>
+                    <td class="tableCellCopyright" align="right" valign="middle">
+                        Sravnyashka © 2014
+                        <asp:HyperLink ID="HyperLink_Language" runat="server">Русский</asp:HyperLink>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>

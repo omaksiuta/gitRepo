@@ -1,0 +1,10 @@
+{0} |  {1} |  {2} |  {3} |  {4} |  {5} |  {6} |  {7} |  {8} |  {9}
+
+email013est.com |  colVal1 | colVal2 | colVal3 | colVal4 | colVal5 | colVal5 | colVal6 | colVal7 | colVal8 | colVal9
+
+email213test.com | colVal1 | colVal2 | colVal3 | colVal4 | colVal5 | colVal5 | colVal6 | colVal7 | colVal8 | colVal9
+e1432est.com | colVal1 | colVal2 | colVal3 | colVal4 | colVal5 | colVal5 | colVal6 | colVal7 | colVal8 | colVal9
+asminfo@bk.ru | colVal1 
+asminfo@bk.ru | colVal1 | colVal2 | colVal3 | colVal4 | colVal5 | colVal5 | colVal6 | colVal7 | colVal8 | colVal9
+asminfo@bk.ru | colVal1 | colVal2 | colVal3 | colVal4 | colVal5 | colVal5 | colVal6 | colVal7 | colVal8 | colVal9
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Components name="Каталог Составляюших"  date="2013-10-28">
+	<Component id="COMP100001" name="Вода" />
+	<Component id="COMP100002" name="Соль"/>
+	<Component id="COMP100003" name="Сахар"/>
+	<Component id="COMP100004" name="Молоко Сухое"/>
+	<Component id="COMP100005" name="Молоко обезжиренное"/>
+	<Component id="COMP100006" name="Сода"/>
+	<Component id="COMP100007" name="Лимонная кислота"/>
+	<Component id="COMP100008" name="Перец молотый"/>
+	<Component id="COMP100009" name="Паприка"/>
+	<Component id="COMP100010" name="Укроп"/>
+	<Component id="COMP100011" name="Петрушка"/>
+	<Component id="COMP100012" name="Сливки"/>
+</Components>

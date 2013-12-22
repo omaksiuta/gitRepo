@@ -1,0 +1,5 @@
+D:\AlexS\Projects\Fired\Fired\Fired\bin\Fired.dll
+D:\AlexS\Projects\Fired\Fired\Fired\bin\Fired.pdb
+D:\AlexS\Projects\Fired\Fired\Fired\obj\Debug\Fired.dll
+D:\AlexS\Projects\Fired\Fired\Fired\obj\Debug\Fired.pdb
+D:\AlexS\Projects\Fired\Fired\Fired\obj\Debug\Fired.csprojResolveAssemblyReference.cache

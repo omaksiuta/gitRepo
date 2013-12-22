@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products name="Butter Catalog"  date="2013-10-28">
+	<Product Id="BUTTER100001" Name="Простоквашино" ManufactureId="MAN100002" >
+		<ShelfLifeId>SHELFL100001</ShelfLifeId>
+		<Images>
+			<ImgUrl main="true">http://etietieti.com/en/Images/Urun/Thumbnail/urun2013661616207015cd8e594.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/gr_cinkek.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/urun20128221338376092be30229.gif</ImgUrl>
+		</Images>
+		<Components>
+			<ID>COMP100001</ID>
+			<ID>COMP100002</ID>
+			<ID>COMP100003</ID>
+			<ID>COMP100004</ID>
+			<ID>COMP100005</ID>
+		</Components>
+		<Nutrients100g>
+			<Energy>354</Energy>
+			<!-- Kcal -->
+			<Carbohydrate>31</Carbohydrate>
+			<Protein>12</Protein>
+			<Fat>12</Fat>
+		</Nutrients100g>
+	</Product>
+	<Product Id="BUTTER100002" Name="Весёлый Молочник" ManufactureId="MAN100002" >
+		<ShelfLifeId>SHELFL100002</ShelfLifeId>
+		<Images>
+			<ImgUrl main="true">http://etietieti.com/en/Images/Urun/Thumbnail/urun20128171318214062f13e4e.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/urun201281713195970391dd4804.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/urun201281713427796f16f4f52.jpg</ImgUrl>
+		</Images>
+		<Components>
+			<ID>COMP100001</ID>
+			<ID>COMP100002</ID>
+			<ID>COMP100010</ID>
+			<ID>COMP100009</ID>
+			<ID>COMP100007</ID>
+			<ID>COMP100003</ID>
+		</Components>
+		<Nutrients100g>
+			<Energy>354</Energy>
+			<!-- Kcal -->
+			<Carbohydrate>31</Carbohydrate>
+			<Protein>12</Protein>
+			<Fat>12</Fat>
+		</Nutrients100g>
+	</Product>
+	<Product Id="BUTTER100003" Name="Селянское"  ManufactureId="MAN100003" >
+		<ShelfLifeId>SHELFL100002</ShelfLifeId>
+		<Images>
+			<ImgUrl main="true">http://etietieti.com/en/Images/Urun/Thumbnail/urun20128171020159688d237834.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/urun2012817102149796d48ef307.jpg</ImgUrl>
+			<ImgUrl>http://etietieti.com/en/Images/Urun/Thumbnail/cicibebe_ekmeek.jpg</ImgUrl>
+		</Images>
+		<Components>
+			<ID>COMP100010</ID>
+			<ID>COMP100009</ID>
+			<ID>COMP100001</ID>
+			<ID>COMP100002</ID>
+			<ID>COMP100002</ID>
+			<ID>COMP100002</ID>
+			<ID>COMP100007</ID>
+			<ID>COMP100003</ID>
+		</Components>
+		<Nutrients100g>
+			<Energy>354</Energy>
+			<!-- Kcal -->
+			<Carbohydrate>31</Carbohydrate>
+			<Protein>12</Protein>
+			<Fat>12</Fat>
+		</Nutrients100g>
+	</Product>
+</Products>

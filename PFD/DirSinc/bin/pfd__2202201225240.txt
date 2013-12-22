@@ -1,0 +1,39 @@
+Files to validate: 37
+
+C:\Users\Home\Desktop\Что делать, если у вашего ребенка поврежден мозг.doc
+C:\Users\Home\Desktop\1\111__rrrrrrrrrrrr.doc
+C:\Users\Home\Desktop\1\30sec.doc
+C:\Users\Home\Desktop\1\30sec.docx
+C:\Users\Home\Desktop\1\cut.doc
+C:\Users\Home\Desktop\1\cut.txt
+C:\Users\Home\Desktop\1\new1.doc
+C:\Users\Home\Desktop\1\nodata.doc
+C:\Users\Home\Desktop\1\rrrrrrrrrrrr.doc
+C:\Users\Home\Desktop\1\__Diplom.doc
+C:\Users\Home\Desktop\1\Конструкції.doc
+C:\Users\Home\Desktop\1\Лекції.doc
+C:\Users\Home\Desktop\1\МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ.doc
+C:\Users\Home\Desktop\1\финал.doc
+C:\Users\Home\Desktop\Beyond Compare 3.1.3 Build 10374 + Serial Key\Beyond Compare 3.1.3 Build 10374.txt
+C:\Users\Home\Desktop\Beyond Compare 3.1.3 Build 10374 + Serial Key\tracked_by_h33t_com.txt
+C:\Users\Home\Desktop\Beyond Compare 3.1.3 Build 10374 + Serial Key\DOA\C.E.Y.txt
+C:\Users\Home\Desktop\F1\F1\obj\x86\Debug\F1.vbproj.FileListAbsolute.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101444.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101451.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101503.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101556.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101602.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101732.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101741.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101804.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101810.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012101853.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012102312.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012102331.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012102431.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012102847.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012103450.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__14022012105316.txt
+C:\Users\Home\Desktop\PFD\DirSinc\bin\pfd__18022012230301.txt
+C:\Users\Home\Desktop\PFD\DirSinc\obj\Debug\DirSinc.vbproj.FileListAbsolute.txt
+C:\Users\Home\Desktop\PFD\DirSinc\obj\Debug\PFD.vbproj.FileListAbsolute.txt
